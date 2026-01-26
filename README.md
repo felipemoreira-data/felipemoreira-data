@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Felipe Moreira
+# Olá, eu sou Felipe Moreira
 
 🎯 **Cientista de Dados & Entusiasta de Inteligência Artificial**  
 📍 Brasília - DF, Brasil  
@@ -65,8 +65,6 @@ Atualmente foco em:
 
 ---
 
-
----
 
 ## 🏷️ Tags
 
