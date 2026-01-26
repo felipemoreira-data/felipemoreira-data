@@ -61,7 +61,7 @@ Atualmente foco em:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipemmoreiradt/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:felipemoreira.data@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:felipemoreira.data@gmail.com?subject=Contato%20via%20GitHub)
 
 ---
 
