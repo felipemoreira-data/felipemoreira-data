@@ -37,14 +37,6 @@ Atualmente foco em:
 
 ---
 
-### Backend, Web & Automação
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
 ## Áreas de Interesse
 
 - 🤖 Inteligência Artificial aplicada
@@ -52,10 +44,7 @@ Atualmente foco em:
 - ⚙️ Automações e Bots
 - 🌐 Desenvolvimento de Produtos Digitais
 
-
 ---
-
-
 
 ## Conecte-se comigo
 
